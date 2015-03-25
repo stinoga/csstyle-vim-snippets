@@ -1,0 +1,9 @@
+{
+  "name" : "csstyle-vim-snippets",
+  "author" : "Rob Stinogle",
+  "maintainer" : "Rob Stinogle",
+  "repository" : {"type": "git", "url": "git://github.com/stinoga/csstyle-vim-snippets.git"},
+  "dependencies" : {
+  },
+  "description" : "Csstyle snippets for snipMate"
+}
