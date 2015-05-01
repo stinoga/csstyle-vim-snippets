@@ -1,5 +1,5 @@
 # csstyle-vim-snippets
-Vim snippets for --csstyle
+SASS and LESS Vim snippets for --csstyle
 
 ## Installation
 
